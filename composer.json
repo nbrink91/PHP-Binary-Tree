@@ -1,0 +1,15 @@
+{
+    "name": "nicholasbrink/tree-test",
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "Nicholas Brink",
+            "email": "nbrink7@gmail.edu"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }
+}
